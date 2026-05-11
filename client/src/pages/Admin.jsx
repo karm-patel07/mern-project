@@ -255,7 +255,7 @@ export default function Admin() {
                   className="bg-white shadow-lg rounded-xl overflow-hidden hover:shadow-2xl hover:-translate-y-1 transition"
                 >
                   <img
-                    src={"https://mern-project-9ylf.onrender.com" + event.image}
+                    src={"https://mern-project-2hiz.onrender.com" + event.image}
                     className="h-40 w-full object-cover"
                   />
 

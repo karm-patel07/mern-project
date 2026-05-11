@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://mern-project-9ylf.onrender.com/api",
+  baseURL: "https://mern-project-2hiz.onrender.com/api",
 });
 
 // Add auth header
