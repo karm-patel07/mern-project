@@ -141,7 +141,7 @@ export default function Dashboard() {
             ${selectedEvent === event._id ? "ring-2 ring-blue-500" : ""}`}
           >
             <img
-              src={"http://localhost:5000" + event.image}
+              src={"https://mern-project-9ylf.onrender.com" + event.image}
               className="h-40 w-full object-cover"
             />
 
